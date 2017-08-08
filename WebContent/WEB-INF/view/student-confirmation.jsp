@@ -16,7 +16,7 @@ The student is Confirmed! ${student.firstName} ${student.lastName}
 Country: ${student.country}
 <br></br>
 
-Fav Language: ${student.favoriteLanguage}
+Fav Language: ${student.favoriteLanguage }
 
 
 <br></br>
